@@ -22,8 +22,7 @@
   },
   "homepage": "https://github.com/shannanhong/myelectron#readme",
   "dependencies": {
-    "electron-squirrel-startup": "^1.0.0",
-    "node-sass": "^7.0.1"
+    "electron-squirrel-startup": "^1.0.0"
   },
   "devDependencies": {
     "@electron-forge/cli": "^6.0.0-beta.65",
